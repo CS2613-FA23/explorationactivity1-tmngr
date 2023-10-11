@@ -15,3 +15,12 @@ or
 pip3 install pygame
 ```
 ## Running the code
+Now that the installation of pygame has been completed, time to run the code. The Pong.py code includes everything that is required hence all that is necessary to run the code is to download the .py file and use cmd center or VScode to run it.
+
+Pong.py includes the functions from pygame to create an window, 2 rectangle players that can move in the y-axes and a ball. This simple game that will show us most of the basic functions in the pygame library and it will be a great mix of learning and having fun.
+
+### The examples
+
+Since this is a game that will run by itself on a loop, it does not require any inputs. Of course if any user can change the values of any function that gives sizes, colours, shapes, or speed. 
+
+For output, here are some examples of screenshots of during playing, and end of the game.
