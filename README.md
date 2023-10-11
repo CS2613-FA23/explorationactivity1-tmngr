@@ -2,6 +2,6 @@
 # ExplorationActivity1
 For the first Exploration Activity, python will be the language of the choice. With python there is a library called Pygame, which is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries which can be used to make simple games like Snake, Flappy Bird, and even a simple chess game.
 
-The goal of this code is to use some of the basic functions from this library to make Pong Game.
+The goal of this code is to use some of the basic functions from this library to make Pong Game. This game containes two players that will move two rectangles in the y-axes to stop the ball from crossing to their side.
 
 ## Installation
