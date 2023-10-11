@@ -5,3 +5,13 @@ For the first Exploration Activity, python will be the language of the choice. W
 The goal of this code is to use some of the basic functions from this library to make Pong Game. This game containes two players that will move two rectangles in the y-axes to stop the ball from crossing to their side.
 
 ## Installation
+Before starting with the code, installing pygame is the important step.
+To install:
+```
+pip install pygame
+```
+or
+```
+pip3 install pygame
+```
+## Running the code
