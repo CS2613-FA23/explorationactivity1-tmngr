@@ -6,7 +6,7 @@ Just like any other language python can use different kind of libraries/packages
 
 # Starting to use pygame
 
-Lets take the use of pygame step by step:[^1] 
+Lets take the use of pygame step by step:
 
 ## Step 1: Installation
 
@@ -70,7 +70,7 @@ Last if statement here will check the release of the keys with pygame.KEYUP. Thi
 
 # Background knowledge and personal opinions
 
-This specific library in python has been created in October 28th of 2000, 6 months later pygame version 1.0 was released. Pete Shinners, the creator of PyGame, has found a similar library called PySDL that was under-way with the same idea. After studying and understanding PySDL more he felt like it forced a C style of code, by he wanted to put together a project that really took advantage of Python. His goal was to make it easy to do the simple things, and straightforward to do the difficult things.[^2]
+This specific library in python has been created in October 28th of 2000, 6 months later pygame version 1.0 was released. Pete Shinners, the creator of PyGame, has found a similar library called PySDL that was under-way with the same idea. After studying and understanding PySDL more he felt like it forced a C style of code, by he wanted to put together a project that really took advantage of Python. His goal was to make it easy to do the simple things, and straightforward to do the difficult things.[^1] [^2]
 
 When it comes to why this specific library has pulled my attention and that I decided to do this library is very simple in the core. As much as I used python in my Physics Degree for lab purposes, I have always been a gamer in heart and Java was the first language I have learned properly from following a scheculed teaching or in a proper class. Hence I wanted to experience with a language that I require to know for my degree and my future but be able to use this language to multiple different ways. As most people do, I used python for calculations, graphing and advance data collection, hence I knew that python is able to creat GUI or windows in a great and simple way to understand for most students. 
 
@@ -82,8 +82,8 @@ Biggest recommendation to use this library would be for game designing while usi
 References:
 </sub>
 
-[^1]: Same websites Front Page was used to learn about differnt methods included in the PyGame. 
+[^2]: Same websites Front Page was used to learn about differnt methods included in the PyGame. 
 https://www.pygame.org/docs/
 
-[^2]: This paragraph has been mostly rewritten from the website for PyGame that has been written by Pete Shinners. 
+[^1]: This paragraph has been mostly rewritten from the website for PyGame that has been written by Pete Shinners. 
 https://www.pygame.org/docs/tut/PygameIntro.html#:~:text=Pygame%20was%20started%20in%20October,pygame%20version%201.0%20was%20releasedS
