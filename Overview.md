@@ -6,7 +6,7 @@ Just like any other language python can use different kind of libraries/packages
 
 # Starting to use pygame
 
-Lets take the use of pygame step by step: 
+Lets take the use of pygame step by step:[1] 
 
 ## Step 1: Installation
 
@@ -82,8 +82,8 @@ Biggest recommendation to use this library would be for game designing while usi
 References:
 </sub>
 
-[^1]: This paragraph has been mostly rewritten from the website for PyGame that has been written by Pete Shinners. 
-https://www.pygame.org/docs/tut/PygameIntro.html#:~:text=Pygame%20was%20started%20in%20October,pygame%20version%201.0%20was%20released.
-
-[^2]: Same websites Front Page was used to learn about differnt methods included in the PyGame. 
+[^1]: Same websites Front Page was used to learn about differnt methods included in the PyGame. 
 https://www.pygame.org/docs/
+
+[^2]: This paragraph has been mostly rewritten from the website for PyGame that has been written by Pete Shinners. 
+https://www.pygame.org/docs/tut/PygameIntro.html#:~:text=Pygame%20was%20started%20in%20October,pygame%20version%201.0%20was%20released.
