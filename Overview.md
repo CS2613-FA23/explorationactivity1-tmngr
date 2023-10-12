@@ -86,4 +86,4 @@ References:
 https://www.pygame.org/docs/
 
 [^2]: This paragraph has been mostly rewritten from the website for PyGame that has been written by Pete Shinners. 
-https://www.pygame.org/docs/tut/PygameIntro.html#:~:text=Pygame%20was%20started%20in%20October,pygame%20version%201.0%20was%20released.
+https://www.pygame.org/docs/tut/PygameIntro.html#:~:text=Pygame%20was%20started%20in%20October,pygame%20version%201.0%20was%20releasedS
