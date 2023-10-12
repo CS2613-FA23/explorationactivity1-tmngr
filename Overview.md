@@ -20,3 +20,11 @@ pip3 install pygame
 ```
 
 I have noticed that the first method did not work when I have tried running my code with it, hence I suggest using the second method to be used.
+
+## Step 2: Implementing a Background in Pygame
+
+As any good game starts, we will need a background. For the purpose of learning pygame, the correct way to approach this would be to create small programs that do simple one feature, and when you have a grasp of it better you can combine them together.
+
+For this purpose I have created a new python file called Test.py:
+
+![Alt text](image.png)
