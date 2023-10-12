@@ -56,3 +56,34 @@ The above code defines the a few key factors of the player:
 
 Defined display only does a simple job of displaying the player where it has been specified to and defined update will be a key function that updates players direction and possition. Also this is where we will make sure that player does not go off boundry. 
 
+## Step 4: Running the game and enjoying
+
+Assuming you have included a class for ball as well now we can include a main program code. Here there has to be included a few key features. Defining both player and the ball with the proper parameters you have picked and detecting which keys have been pressed or not. I will include a screenshot of the second part of this statement since that will have pieces of pygame we have not seen yet:
+
+![Which key has been pressed.](image-3.png)
+
+Here we can see that in the for loop first if statement checks if quit button has been pressed, if it has been then it will turn of the game and stop the code. This is achived by taking the pygame.event.get(), which will look for any activity in the keyboard and mouse. 
+
+After that second if statement will check if any keyboard keys has been pressed by checking with pygame.KEYDOWN. This requires a few if statements to see if the required keys have been pressed and tell the code what to do when it is.
+
+Last if statement here will check the release of the keys with pygame.KEYUP. This will be used to stp the rectangle player on the screen to stop moving when the specified keys are released.
+
+# Background knowledge and personal opinions
+
+This specific library in python has been created in October 28th of 2000, 6 months later pygame version 1.0 was released. Pete Shinners, the creator of PyGame, has found a similar library called PySDL that was under-way with the same idea. After studying and understanding PySDL more he felt like it forced a C style of code, by he wanted to put together a project that really took advantage of Python. His goal was to make it easy to do the simple things, and straightforward to do the difficult things.[^1]
+
+When it comes to why this specific library has pulled my attention and that I decided to do this library is very simple in the core. As much as I used python in my Physics Degree for lab purposes, I have always been a gamer in heart and Java was the first language I have learned properly from following a scheculed teaching or in a proper class. Hence I wanted to experience with a language that I require to know for my degree and my future but be able to use this language to multiple different ways. As most people do, I used python for calculations, graphing and advance data collection, hence I knew that python is able to creat GUI or windows in a great and simple way to understand for most students. 
+
+With learning how to code a simple game with this library, it makes learning GUIs, function and class creation more fun. 
+
+Biggest recommendation to use this library would be for game designing while using python as it states in the name (PyGame) but I noticed that this language can be used for rendering images to the screen, handling button presses, or tracking mouse movements. Of course, I will use this library again when the oppurtunity presents itself, because I know that the more I use the library more I will understand how a language can be different from other languages. As mentioned above Peete Shinners compared this language to PySDL, and that PySDL has felt like it was from C type of language. I would like to spend more time understanding that library as well so I can see the differences even more.
+
+<sub>
+References:
+</sub>
+
+[^1]: This paragraph has been mostly rewritten from the website for PyGame that has been written by Pete Shinners. 
+https://www.pygame.org/docs/tut/PygameIntro.html#:~:text=Pygame%20was%20started%20in%20October,pygame%20version%201.0%20was%20released.
+
+[2]: Same websites Front Page was used to learn about differnt methods included in the PyGame. 
+https://www.pygame.org/docs/
