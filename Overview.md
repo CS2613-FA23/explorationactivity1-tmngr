@@ -30,6 +30,7 @@ For this purpose I have created a new python file called Test.py:
 ![Screen shot of Test.py with only background code copied from Pong.py](image.png)
 
 This code above does a few simple tasks:
+
     1. Initializes pygame with init()
     2. Sets the screen dimensions with display.set_mode()
     3. Sets the screen title with display.set_caption()
