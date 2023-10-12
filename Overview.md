@@ -6,7 +6,7 @@ Just like any other language python can use different kind of libraries/packages
 
 # Starting to use pygame
 
-Lets take the use of pygame step by step:[1] 
+Lets take the use of pygame step by step:[^1] 
 
 ## Step 1: Installation
 
