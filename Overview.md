@@ -49,6 +49,7 @@ For the purpose of adding objects into our game (screen), we will be adding play
 ![Class player from Pong.py](image-2.png)
 
 The above code defines the a few key factors of the player:
+
     a. x-position and y-position of the player. Of course, for the purpose of this game we will only need y-position to be changing and x-position to be the same for the entire game.
     b. width and height. Just like the x-position, these won't be changing for the rest of the game but we will require height to check if the player hits the boundries.
     c. Speed and colour. Colour will be only helpful to separate it from the screen and the ball. Speed on the other hand is required to see how much it displaces when player moves.
